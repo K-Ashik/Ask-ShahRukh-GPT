@@ -6,7 +6,7 @@ Shah Rukh Khan, also known by the initialism SRK, is an Indian actor and film pr
 ![image](https://github.com/user-attachments/assets/5aae296d-627b-4a2a-9f5b-0a94c8086eff)
 
 
-This GPT model is fine-tuned version of gemma 2 with SRK witty comments response dataset available from Hugging Face (abhishek-mungoli/srk_wittiness)
+This GPT model is fine-tuned version of unsloth/Llama 3.2 3B parameter with SRK witty comments response dataset available from Hugging Face (abhishek-mungoli/srk_wittiness)
 There is also a custom-made chat template for user and SRK responses.
 The model is named **Ask-ShahRukh GPT**
 
